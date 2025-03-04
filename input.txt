@@ -1,0 +1,6 @@
+4,titlu4,artist4,rock
+7,titlu7,artist7,folk
+11,titlu11,artist1,pop
+12,titlu9,arist,pop
+13,titlu6,g4g,folk
+14,ojnov,wvw,pop
